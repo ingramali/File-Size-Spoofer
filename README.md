@@ -3,6 +3,6 @@ Spoof any files size
 <br>
 Example:
 <br>
-java -jar "File Size Spoofer.jar" <!file path> <!size in kb>
+java -jar "File Size Spoofer.jar" &lt;file path&lt; &lt;size in kb&lt;
 <br>
 java -jar "File Size Spoofer.jar" idontknow.txt 123456789
